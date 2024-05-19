@@ -1,15 +1,15 @@
 body {
-    background:#f9f7fe;
+    background:#fffee9;
     font-family:monospace;
 }
 
 
 h1 {
     text-align: center;
-    font-size:45px;
+    font-size:50px;
     font-weight: bold;
     margin:15px auto;
-    color:#ffe781;
+    color:#ffdc6e;
     letter-spacing: 5px;
 
 }
@@ -22,10 +22,10 @@ h2 {
 
 select {
     display:block;
-    width:55%;
+    width:60%;
     margin:40px auto;
     margin-bottom: 20px;
-    background-color:#ffe781;
+    background-color:#ffdc6e;
     border:none;
     border-radius:4px;
     padding:12px;
@@ -45,10 +45,10 @@ img {
 .container {
    max-width:600px; 
    margin:80px auto;
-   background:white;
+   background:#f9feff;
    border:double;
-   border-color:#ffe781;
-   border-width:20px;
+   border-color:#ffd75c;
+   border-width:25px;
    padding:50px;
    padding-bottom:30px;
    border-radius:10px;
@@ -69,6 +69,7 @@ img {
 
 .date {
     color:rgba(0,0,0,0.6); 
+    font-size:15px;
     
 }
 
@@ -83,13 +84,13 @@ img {
 }
 
 .back-link {
-    margin-left:240px;
+    margin-left:260px;
     font-weight: bold;
 }
 
 footer {
     text-align:center;
-    font-size: 14px;
-    padding-bottom: 40px;
+    font-size: 15px;
+    padding-bottom:30px;
     color: rgba(0, 0, 0, 0.6);
 }
