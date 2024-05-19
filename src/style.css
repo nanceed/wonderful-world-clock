@@ -49,9 +49,8 @@ img {
    border:double;
    border-color:#ffd75c;
    border-width:25px;
-   padding:50px;
-   padding-bottom:30px;
-   border-radius:10px;
+   padding:40px;
+   padding-bottom:10px;
    box-shadow:rgba(100, 100, 111, 0.2)0px 7px 29px 0px;
 }
 
@@ -90,7 +89,7 @@ img {
 
 footer {
     text-align:center;
-    font-size: 15px;
+    font-size: 14px;
     padding-bottom:30px;
     color: rgba(0, 0, 0, 0.6);
 }
