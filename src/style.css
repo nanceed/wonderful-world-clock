@@ -23,7 +23,7 @@ h2 {
 select {
     display:block;
     width:60%;
-    margin:40px auto;
+    margin:24px auto;
     margin-bottom: 20px;
     background-color:#ffdc6e;
     border:none;
@@ -39,7 +39,7 @@ img {
     width:30%;
     position:relative;
     left:215px;
-    bottom:25px;
+    bottom:15px;
 }
 
 .container {
