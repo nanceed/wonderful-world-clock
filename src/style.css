@@ -93,3 +93,39 @@ footer {
     padding-bottom:30px;
     color: rgba(0, 0, 0, 0.6);
 }
+
+@media (max-width: 800px) {
+    img {
+        width: 45%;
+        left: 66px;
+    }
+
+    h1 {
+        font-size: 38px;
+    }
+
+    h2 {
+        font-size: 26px;
+    }
+
+    select {
+        width: 68%;
+        font-size: 14px;
+    }
+
+    .time {
+        font-size: 26px;
+    }
+
+    .city {
+        padding: 0px;
+    }
+
+    .date {
+        font-size: 12px;
+    }
+
+    .back-link {
+        margin-left: 85px;
+    }
+}
