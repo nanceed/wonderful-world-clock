@@ -101,21 +101,28 @@ footer {
     }
 
     h1 {
-        font-size: 38px;
+        font-size: 22px;
+        line-height: 10px;
+        letter-spacing: 2px;
     }
 
     h2 {
-        font-size: 26px;
+        font-size: 18px;
     }
 
     select {
         width: 68%;
-        font-size: 14px;
+        font-size: 10.5px;
+        padding: 7px;
     }
 
     .time {
-        font-size: 26px;
+        font-size: 16.5px;
         margin-left: 25px;
+    }
+
+    .time small {
+        font-size: 10.5px;
     }
 
     .city {
@@ -123,7 +130,7 @@ footer {
     }
 
     .date {
-        font-size: 16px;
+        font-size: 11px;
     }
 
     .back-link {
